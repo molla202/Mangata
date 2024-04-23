@@ -187,7 +187,7 @@ nano operator.yaml
 
 ### register(kayıt)
 
-- en yukarıda key olusturmustuk 2 kod vardı onalrın ilkinin çıktısında private key var. onu metamuska ekleyin. zor olacak ama goerli faucet bulun... sona işlem için aşağıdaki kodu girin...loglar biraz akacak biticek bekleyin...
+- en yukarıda key olusturmustuk 2 kod vardı onalrın ilkinin çıktısında private key var. onu metamuska ekleyin. zor olacak ama holoski faucet bulun... sona işlem için aşağıdaki kodu girin...loglar biraz akacak biticek bekleyin...
 ```
 eigenlayer operator register operator.yaml
 ```
